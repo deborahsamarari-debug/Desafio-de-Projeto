@@ -105,3 +105,8 @@ As modificações tiveram como objetivo adaptar a ferramenta às escolhas realiz
 Este simulador possui finalidade educacional e de planejamento. Os resultados são estimativas matemáticas baseadas nos parâmetros informados pelo usuário e não representam garantia de rentabilidade futura.
 
 A ferramenta não constitui recomendação de compra ou venda de ativos financeiros.
+
+Arquivo da Planilha
+
+Acesse a planilha completa do simulador pelo link abaixo:
+https://1drv.ms/x/c/729bf627733b555e/IQD-uaf4vPMBQK3amvW2o0tqAds3JI5_VYidvyJYPj6ElTU?e=ZfwDLh
